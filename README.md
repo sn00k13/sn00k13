@@ -1,6 +1,6 @@
 # Hi, I'm Ugochukwu 👋
 
-Senior Fullstack Developer based in Nigeria 🇳🇬, specializing in
+Senior Fullstack Developer, specializing in
 **React**, **Node.js**, and **TypeScript**.
 
 I build production-grade web apps with clean architecture and a
